@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-exercises/static/css/main.c15ec2df.css",
+    "main.js": "/react-exercises/static/js/main.d88b4ba9.js",
+    "static/media/hero-banner-img.jpg": "/react-exercises/static/media/hero-banner-img.0660a2761ebd47253adc.jpg",
+    "static/media/gym.png": "/react-exercises/static/media/gym.b93443208414ec5cb6d9.png",
+    "static/media/Logo.png": "/react-exercises/static/media/Logo.5c24956062a7ac7c0def.png",
+    "static/media/twitter-circled.svg": "/react-exercises/static/media/twitter-circled.430d9aaa167913ba5e50026c253065fa.svg",
+    "static/media/facebook-circled.svg": "/react-exercises/static/media/facebook-circled.c2982528308968827bc34eaf2b4490af.svg",
+    "static/media/instagram.svg": "/react-exercises/static/media/instagram.d341a4bc43d2393d17e6d7175d490c6e.svg",
+    "index.html": "/react-exercises/index.html",
+    "main.c15ec2df.css.map": "/react-exercises/static/css/main.c15ec2df.css.map",
+    "main.d88b4ba9.js.map": "/react-exercises/static/js/main.d88b4ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15ec2df.css",
+    "static/js/main.d88b4ba9.js"
+  ]
+}
